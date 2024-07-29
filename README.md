@@ -1,12 +1,12 @@
 # modifying hmd FoV with Unity & steamVR plugin
  
  Software:
- <b>Unity version<b>: 2021.3.3f1
- <b>steamVR version<b>: 2.8.0
+ <b>Unity version</b>: 2021.3.3f1
+ <b>steamVR version</b>: 2.8.0
  
  Hardware:
- <b>Head-mounted display<b>: HTC VIVE pro
- <b>Graphic card<b>: 
+ <b>Head-mounted display</b>: HTC VIVE pro
+ <b>Graphic card</b>: 
 
  Description:
  Using GetProjectionRaw() & SetStereoProjectionMatrix() to modify perspective projection for hmd.
