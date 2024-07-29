@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.valvesoftware.unity.openvr": {
+      "tarball": {
+        "hash": "8e5e1d445b55",
+        "mtime": 1721372319313,
+        "size": 18865419,
+        "localPath": "C:\\Users\\吳岱容\\Desktop\\JerryPai_project\\projectionMatrixTest\\Assets\\SteamVR\\OpenVRUnityXRPackage\\Editor\\com.valvesoftware.unity.openvr-1.2.1.tgz"
+      }
+    }
+  }
+}
