@@ -6,11 +6,13 @@
 
  <b>steamVR version</b>: 2.8.0
  
+
  Hardware:
 
  <b>Head-mounted display</b>: HTC VIVE pro
 
  <b>Graphic card</b>: 
+
 
  Description:
 
@@ -24,6 +26,7 @@
 
  state 2: modify only horizontal field of view
  
+
  Control config(Keyboard):
 
  Press Space button: next state.
@@ -35,6 +38,7 @@
  Press Left Arrow: horizontal field of view angle + 1 degree
 
  Press Right Arrow: horizontal field of view angle - 1 degree
+
 
  Constraints:
 
